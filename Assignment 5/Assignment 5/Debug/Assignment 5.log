@@ -1,0 +1,42 @@
+﻿  infix.cpp
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(2,6): error C2653: 'linkedStack': is not a class or namespace name
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(6,27): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(7,9): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,9): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,19): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,31): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(9,5): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(11,8): error C2653: 'linkedStack': is not a class or namespace name
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(15,9): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(17,12): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(18,25): error C2027: use of undefined type 'pop::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(14): message : see declaration of 'pop::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(19,5): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(19,11): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(20,16): warning C4150: deletion of pointer to incomplete type 'pop::stackNode'; no destructor called
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(14): message : see declaration of 'pop::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\infix.cpp(16,27): warning C4018: '<': signed/unsigned mismatch
+  stack.cpp
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(2,6): error C2653: 'linkedStack': is not a class or namespace name
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(6,27): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(7,9): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,9): error C2027: use of undefined type 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(5): message : see declaration of 'push::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,19): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(8,31): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(9,5): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(11,8): error C2653: 'linkedStack': is not a class or namespace name
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(15,9): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(17,12): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(18,25): error C2027: use of undefined type 'pop::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(14): message : see declaration of 'pop::stackNode'
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(19,5): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(19,11): error C2065: 'top': undeclared identifier
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(20,16): warning C4150: deletion of pointer to incomplete type 'pop::stackNode'; no destructor called
+C:\Users\Owner\Documents\Assignment 5\Assignment 5\stack.cpp(14): message : see declaration of 'pop::stackNode'
+  Generating Code...
